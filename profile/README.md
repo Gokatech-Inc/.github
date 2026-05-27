@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile-React_Native_%7C_Flutter-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-LLM_Solutions-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-Powered-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%2FML-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-AWS_%7C_Azure_%7C_GCP-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-React_%7C_Node.js-61DAFB?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-Pandas_%7C_NumPy-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-React_Native_%7C_Flutter-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity-Enterprise_Grade-005A8E?style=flat-square" />
   <img src="https://img.shields.io/badge/Frisco%2C_TX-Headquarters-0A66C2?style=flat-square" />
 </p>
@@ -30,9 +31,9 @@ With a global delivery model and U.S.-based leadership, we bring together domain
 
 | Practice Area | Focus |
 |---|---|
+| ✨ **AI & Machine Learning** | Generative AI, LLM pipelines, RAG systems, predictive analytics, NLP, computer vision, and intelligent automation |
 | **Business Applications** | Enterprise-grade custom software, ERP integrations, workflow automation, and scalable web platforms |
 | **Mobile App Development** | Cross-platform and native mobile apps for iOS and Android — from MVP to production |
-| **AI & Machine Learning** | Intelligent automation, predictive analytics, NLP, computer vision, and LLM-powered solutions |
 | **Cloud Technologies** | Cloud migration, architecture design, DevOps pipelines, and managed cloud services on AWS, Azure & GCP |
 | **Data Science** | Data engineering, BI dashboards, real-time analytics, and machine learning model deployment |
 | **Automation** | RPA, test automation, CI/CD pipelines, and intelligent process automation at scale |
@@ -86,7 +87,7 @@ With a global delivery model and U.S.-based leadership, we bring together domain
 | **Mobile** | React Native, Flutter, Swift (iOS), Kotlin (Android) |
 | **Frontend** | React, Angular, Vue.js, TypeScript, Next.js |
 | **Backend** | Node.js, Python (FastAPI / Django), Java (Spring Boot), .NET |
-| **AI & ML** | Python, TensorFlow, PyTorch, scikit-learn, OpenAI, Anthropic Claude |
+| ✨ **AI & ML** | Python, TensorFlow, PyTorch, scikit-learn, LangChain, LlamaIndex, OpenAI GPT-4, Anthropic Claude |
 | **Data & Analytics** | Apache Spark, Kafka, Databricks, dbt, Power BI, Tableau |
 | **Cloud** | AWS, Microsoft Azure, Google Cloud Platform |
 | **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, Jenkins |
